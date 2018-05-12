@@ -1,0 +1,37 @@
+_repo: Rakkauden-komedia-1862--3-n-yt-ksinen-komedia_20344
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kouta, Aarni
+    alias: Candolin, Arnold
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '7932'
+    url: http://www.gutenberg.org/2009/agents/7932
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2007-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20344'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama'
+title: 'Rakkauden komedia
+
+  (1862) 3-näytöksinen komedia'
+url: http://www.gutenberg.org/ebooks/20344
